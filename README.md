@@ -2,4 +2,4 @@
 Some sheets for practice
 
 md = MarkDown 
-[Visit MarkDown totorial](https://www.markdowntutorial.com)
+[Visit MarkDown Tutorial](https://www.markdowntutorial.com)

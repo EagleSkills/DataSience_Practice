@@ -1,0 +1,3 @@
+to pull file frome remote repo to local repo use:
+  git pull <remote name>
+  git pull origin

@@ -1,0 +1,5 @@
+To know the branch name write:
+	[git branch]
+
+To know the remote name write:
+	[git remote -v]
